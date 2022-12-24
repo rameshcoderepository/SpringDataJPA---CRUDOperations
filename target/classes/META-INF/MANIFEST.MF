@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: productdata
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin1
+Implementation-Vendor-Id: com.bharath.springdata
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/productdata
+Created-By: Maven Integration for Eclipse
+

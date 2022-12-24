@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.ramesh.springdata.product.ProductdataApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 6.43 s <<< FAILURE! - in com.ramesh.springdata.product.ProductdataApplicationTests
+testRead  Time elapsed: 0.034 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.ramesh.springdata.product.ProductdataApplicationTests.testRead(ProductdataApplicationTests.java:54)
+
+testUpdate  Time elapsed: 0.009 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.ramesh.springdata.product.ProductdataApplicationTests.testUpdate(ProductdataApplicationTests.java:62)
+
